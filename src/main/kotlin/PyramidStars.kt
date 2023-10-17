@@ -1,5 +1,5 @@
 // Good Old Pyramid Stars
-fun main() {
+fun main(args: Array<String>) {
     val x: Int = 5
 
     for (i in 0 until x) {
